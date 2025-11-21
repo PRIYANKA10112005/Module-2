@@ -11,7 +11,7 @@ To write a Python program that defines a **lambda function** which takes two arg
 ## 🧾 Program
 ```python
 
-f = lambda a, b: a + b
+f = lambda a, b: a + b   
 
 x = int(input("Enter first number: "))
 y = int(input("Enter second number: "))
